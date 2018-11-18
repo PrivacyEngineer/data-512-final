@@ -1,4 +1,4 @@
-# Analysis of Tweeter Activity for the 115th Congress of the United States of America.
+# Analysis of Twitter Activity for the 115th Congress of the United States of America.
 
 ## Context
 
