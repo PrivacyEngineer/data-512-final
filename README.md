@@ -36,3 +36,10 @@ We note that while the 911 calls and rain gauge accumulations datasets are compa
 ## Human Centered Data Science
 
 This project is most directly related to the societal implications of data science, as it shows how data science can be used to analyze various aspects of societal needs to understand how we are currently addressing them, and also to plan for future needs. Our project will also address data provenance, preparation and reproducibility of this study, and there is a small but non-zero probability that we may discover bias in the data, and are able to associate that bias to its consequences.
+
+## Suggestions
+
+- Include population figures
+- Compare call to population density
+- Can we say something about the type of building in each zone?
+- Fires due to human error or electronic failure may have nothing to do with weather/air temperature.
