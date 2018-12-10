@@ -1,0 +1,177 @@
+Type,Class
+Medic Response,False
+Aid Response,False
+Automatic Medical Alarm,False
+Investigate Out Of Service,False
+Trans to AMR,False
+Aid Response Yellow,False
+1RED 1 Unit,True
+Motor Vehicle Accident,False
+Natural Gas Odor,False
+Assault w/Weap 7 per Rule,False
+Motor Vehicle Accident Freeway,False
+Aid Response Freeway,False
+Auto Fire Alarm,False
+Automatic Fire Alarm False,False
+Rescue Elevator,False
+4RED - 2 + 1 + 1,True
+Fire in Building,True
+Rescue Rope,False
+Alarm Bell,False
+Illegal Burn,False
+Medic Response- 7 per Rule,False
+Activated CO Detector,False
+Medic Response- 6 per Rule,False
+Brush Fire,True
+EVENT - Special Event,False
+Rescue Heavy,False
+Electrical Problem,False
+Rubbish Fire,True
+Car Fire,True
+Water Job Minor,False
+Automatic Fire Alarm Resd,False
+Chimney Fire,True
+Reduce Resp Opposite Tunnel,False
+Rescue Water Major,False
+Rescue Lock In/Out,False
+Natural Gas Leak Major,False
+Fuel Spill,False
+HAZADV - Hazmat Advised,False
+Explosion Major,False
+Hang-Up- Aid,False
+Dumpster Fire,True
+Unk Odor,False
+Food On The Stove,False
+Aid Service,False
+Fire in Single Family Res,True
+Car Fire Freeway,True
+Garage Fire,True
+Mutual Aid- Medic,False
+Natural Gas Leak,False
+Rescue Water,False
+TEST - MIS TEST,False
+Mutual Aid- Task Force,False
+Hang-Up- Fire,True
+Boat Under 50' Unknown,False
+Boat Under 50' Fire Water,True
+Assault w/Weapons- Aid,False
+Automatic Aid Dist 11,False
+Automatic Fire Dist 11,False
+Assault w/Weapons 14,False
+Food On The Stove Out,False
+Medic Response Freeway,False
+Single Medic Unit,False
+Fire Response Freeway,True
+Rescue Automobile,False
+Wires Down,False
+3RED - 1 +1 + 1,True
+Dumpster Fire W/Exp.,True
+Mutual Aid- Aid,False
+Investigate In Service,False
+Bark Fire,True
+HazMat Reduced,False
+Hazardous Mat- Spill-Leak,False
+Drill,False
+Brush Fire W/Exp.,True
+Mutual Aid- Engine,False
+Chempack Engine,False
+HazMat MCI,False
+RMC Chief,False
+Spill- Non-Hazmat,False
+Rescue Heavy Major,False
+AFA4 - Auto Alarm 2 + 1 + 1,False
+Shed Fire,True
+COMED Poss Patient,False
+Boat Taking Water Minr/Sho,False
+Explosion Minor,False
+Multiple Medic Resp 14 Per,False
+MUK9 - FIU CAPTAIN K9,False
+Boat Under 50' Fire Shore,True
+Mutual Aid- Ladder,False
+Mutual Aid- Strike Eng.,False
+Vault Fire (Electrical),False
+Tranformer Fire,True
+Help the Fire Fighter,True
+Ship Fire 50'on Shore/Pier,True
+MCI Major,False
+ANTIB - Antibiotic Delivery,False
+Furnace Problem,False
+Aircraft Standby,False
+W1RED - 1  Unit,True
+Fire House Boat,True
+Hazardous Decon,False
+Water Job Major,False
+Rescue Confined Space,False
+Train Derailment wFireHzmt,False
+Car Fire W/Exp.,True
+Mutual Aid- Strike Team Lad,False
+Multiple Casualty Incident,False
+Boat Fire In Marina,True
+Mutual Aid- Adv. Life,False
+Pier Fire,True
+Mutual Aid- Tech Res,False
+QAID- Quick Dispatch Aid Call,False
+Quick Aid Response,False
+Mutual Aid- Hazmat,False
+Tunnel Medic,False
+Tank Farm,False
+Tunnel Aid,False
+Quick Dispatch Medic 7,False
+Tunnel Rescue,False
+Quick Dispatch Medic,False
+LINK - Link Control Center,False
+Tanker Fire,True
+Hazardous Material w/Fire,True
+Mutual Aid- Marine,False
+Boat Taking on Water Major,False
+Rescue Fresh Water,False
+Rescue Salt Water,False
+Rescue Salt Water Maj,False
+Aircraft Crash,False
+Haz Unk,False
+Monorail Fire on the beam,True
+WAFA4 - Auto Alarm 2+1+1,False
+Rescue Fresh Water Maj,False
+Tunnel Fire,True
+Brush Fire Freeway,True
+Rescue Trench,False
+Aid Resp Infectious,False
+Medic Resp Infectious,False
+Med 7 Resp Infectious,False
+Mutual Aid Tsk F. BLS,False
+Motor Vehicle Incident,False
+Motor Vehicle Incident Freeway,False
+MVI - Motor Vehicle Incident,False
+MVI Freeway,False
+MVI Medic,False
+MVI Freeway Medic,False
+Brush Fire Major,True
+AFAH - Auto Alarm Hazmat,False
+Ship Fire 50' on Water,True
+Rescue Standby,False
+Rescue Standby Water,False
+Fast Back Up,False
+WAFA - Automatic Fire Alarm,False
+FIREWATCH - 1 Fire Unit,True
+Water Rescue Recon Response,False
+Marine Recon Response,False
+Vessel Sinking On Shore,False
+Vessel Sinking On Water,False
+Marine Fire On Shore,True
+Water Rescue Recon,False
+Marine Fire On Water,True
+Marine Service Response,False
+Water Rescue Response,False
+Water Rescue Response Major,False
+Water Rescue Standby,False
+Fire in a Highrise,True
+FIREWATCH,True
+Fire In A Highrise,True
+Mayday Incident,False
+Scenes Of Violence MCI,False
+Testing Only Testing,False
+Scenes Of Violence 14,False
+Scenes Of Violence 7,False
+Mutual Aid- Aircraft,False
+Rescue Extrication,False
+Rescue Ice,False
